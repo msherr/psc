@@ -20,7 +20,7 @@ Ellis Fenske\*, Akshaya Mani\*, Aaron Johnson, and Micah Sherr. Distributed Meas
 
 [Our implementation of PSC is available here](https://github.com/msherr/psc).  Please note that PSC is in active development, and (like all software) may contain bugs.
 
-We are actively working on our documentation.  For help with installation and usage of PSC, please contact [Akshaya Mani](am3227@georgetown.edu).
+We are actively working on our documentation.  For help with installation and usage of PSC, please contact [Akshaya Mani](mailto:am3227@georgetown.edu).
 
 
 # Participants
