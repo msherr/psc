@@ -29,7 +29,7 @@ import (
     "net"
     "os"
     "privcardinality/DP/dpres"
-    "privcardinality/schnorr/schnorrkey"
+    "privcardinality/CP/schnorr/schnorrkey"
     "privcardinality/CP/cpres"
     "strconv"
     "syscall"
