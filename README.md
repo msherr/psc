@@ -11,7 +11,7 @@ We present a proof-of-concept implementation of the private set-union cardinalit
 
 # Paper
 
-Ellis Fenske\*, Akshaya Mani\*, Aaron Johnson, and Micah Sherr. Distributed Measurement with Private Set-Union Cardinality. In ACM Conference on Computer and Communications Security (CCS), November 2017.
+Ellis Fenske\*, Akshaya Mani\*, Aaron Johnson, and Micah Sherr. [Distributed Measurement with Private Set-Union Cardinality](ccs2017_final.pdf). In ACM Conference on Computer and Communications Security (CCS), November 2017.
 
 (* co-first authors)
 
