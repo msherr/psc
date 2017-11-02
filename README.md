@@ -18,7 +18,8 @@ Ellis Fenske\*, Akshaya Mani\*, Aaron Johnson, and Micah Sherr. Distributed Meas
 
 # Source Code
 
-Coming soon!  (We promise.)
+[Our implementation of PSC is available here](https://github.com/msherr/psc).  Please note that PSC is in active development, and (like all software) may contain bugs.
+
 
 
 # Participants
