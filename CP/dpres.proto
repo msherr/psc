@@ -1,0 +1,13 @@
+/*
+Created on Apr 18, 2017
+
+@author: Akshaya Mani, Georgetown University
+*/
+
+syntax = "proto2";
+package DPres;
+
+message Response {
+  repeated string K = 1;
+  repeated string C = 2;
+}
